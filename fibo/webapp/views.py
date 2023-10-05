@@ -17,7 +17,6 @@ import git
 import shutil
 
 # settings.MODEL = "gpt-4"
-api_key = "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"
 settings.OPENAI_API_KEY = api_key
 
 class EmployeeList(APIView):
